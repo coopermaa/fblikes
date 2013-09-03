@@ -19,6 +19,10 @@ Make sure your OpenWRT is connected to internet, then run following command to s
 
     $ /etc/init.d/fblikes start
 
+Run following command if you want to put fblikes on Linux startup:    
+
+    $ /etc/init.d/fblikes enable
+    
 Point your browser at 
 http://&lt;IP of OpenWRT&gt;/cgi-bin/luci/fblikes to configure settings.
 
