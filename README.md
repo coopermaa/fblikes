@@ -22,5 +22,14 @@ Make sure your OpenWRT is connected to internet, then run following command to s
 Point your browser at 
 http://&lt;IP of OpenWRT&gt;/cgi-bin/luci/fblikes to configure settings.
 
+Here is a screencut of Facebook Likes LED Display, the Facebook Fans's page of Fablab Taipei:
 
-   
+![screencut](http://bit.ly/15ouPyH)
+
+the Arduino LED Display:
+
+![screencut](http://bit.ly/13802s0)
+
+and the LuCI configuration User interface for this application:
+
+![screencut](http://bit.ly/15ovm3m)
