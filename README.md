@@ -8,12 +8,12 @@ What you need is an OpenWRT (running on TL-WR703N), Arduino and TM1638 LED Displ
 
 First, connect Arduino with TM1368 LED Display and upload fblikesDemo sketch in the arduino directory to Arduino board.
 
-Upload install.sh and files directoy to OpenWRT, then run:
+Upload install.sh and the files directoy to OpenWRT, then run:
 
     $ chmod +x install.sh
     $ ./install.sh
     
-This is will install fblikes scripts and related LuCI modules.
+This will install fblikes scripts and related LuCI modules.
 
 Make sure your OpenWRT is connected to internet, then run following command to start fblikes:
 
