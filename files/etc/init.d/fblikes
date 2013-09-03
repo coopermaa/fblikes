@@ -1,0 +1,14 @@
+#!/bin/sh /etc/rc.common
+# Init Script for fblikes
+# Save this file to /etc/init.d/fblikes
+
+START=10
+STOP=15
+
+start() {
+  fblikes > /dev/null 2>&1 &
+}
+
+stop() {
+  killall -9 fblikes
+}

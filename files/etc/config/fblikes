@@ -1,0 +1,7 @@
+
+config core 'main'
+	option serialport '/dev/ttyACM0'
+	option baud_rate '57600'
+	option refresh_interval '5'
+	option source_url 'https://www.facebook.com/cutespring'
+
