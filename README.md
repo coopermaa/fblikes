@@ -2,7 +2,7 @@
 
 This project creates a real Facebook Likes LED Display. Check [my blog](http://bit.ly/17mDukQ) for more information.
 
-What you need is an OpenWRT (running on TL-WR703N), Arduino and TM1638 LED Display.
+What you need is an OpenWRT (running on TL-WR703N or FWR171-3G), Arduino and TM1638 LED Display.
 
 ## Installation
 
